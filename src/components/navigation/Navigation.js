@@ -13,3 +13,4 @@ export default function Navigation() {
         </Stack.Navigator>
     );
 }
+///Porabndo las ramas que estoy utlizando
